@@ -1,8 +1,3 @@
-Current pwnboxzshr:
-	*~/.zshrc
-	*~/.zshrc.bak1 is the original one
-	*~/.zshrc.bak2 is the first modded one
-
 # Greeting
 #echo "Welcome to Kali Linux"
 
