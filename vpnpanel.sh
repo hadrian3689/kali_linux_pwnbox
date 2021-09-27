@@ -6,8 +6,8 @@ if [[ $htbip == *"10."* ]]
 then
    gwip=$(ip route | grep tun0 | grep via | cut -d " " -f 3)
    ping=$(ping -c 1 $gwip -W 1 | sed '$!d;s|.*/\([0-9.]*\)/.*|\1|' | cut -c1-4)
-   echo "HTB VPN: $lab ($htbip) "
+   echo "HTB VPN: $lab ($htbip)  "
 else
-   echo "HTB VPN: Disconnected"
+   echo "HTB VPN: Disconnected  "
 fi
 
