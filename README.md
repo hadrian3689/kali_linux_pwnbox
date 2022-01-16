@@ -16,7 +16,7 @@ sudo ./initial_file_setup.sh
 Or
 ```
 chmod +x initial_file_setup.sh
-sudo su 
+su root
 ./initial_file_setup.sh
 ```
 
