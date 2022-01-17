@@ -20,7 +20,7 @@ su root
 ./initial_file_setup.sh
 ```
 
-Then you can follow the remaining steps from https://readysetexploit.wordpress.com/2021/09/24/hack-the-box-kali-pwnbox/#pwnboxtheme
+Then you can follow the remaining steps from https://readysetexploit.wordpress.com/2021/09/24/hack-the-box-kali-pwnbox/#pwnboxtheme <br>
 I also have a video walkthrough of the whole setup at https://www.youtube.com/watch?v=ERDyAu0ZCe8
 
 
