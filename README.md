@@ -4,7 +4,9 @@ Hack The Box Pwnbox files for Kali Linux
 
 ## Description
 
-The inspiration for this project came from https://github.com/theGuildHall/pwnbox. This repository just contains some files I edited for my personal use which I want to share.
+The inspiration for this project came from https://github.com/theGuildHall/pwnbox. <br> 
+<br>
+This repository just contains some files I edited for my personal use which I want to share.
 
 ## Initial Setup
 
@@ -21,6 +23,7 @@ su root
 ```
 
 Then you can follow the remaining steps from https://readysetexploit.wordpress.com/2021/09/24/hack-the-box-kali-pwnbox/#pwnboxtheme <br>
+<br>
 I also have a video walkthrough of the whole setup at https://www.youtube.com/watch?v=ERDyAu0ZCe8
 
 
