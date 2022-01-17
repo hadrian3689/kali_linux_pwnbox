@@ -21,6 +21,7 @@ su root
 ```
 
 Then you can follow the remaining steps from https://readysetexploit.wordpress.com/2021/09/24/hack-the-box-kali-pwnbox/#pwnboxtheme
+I also have a video walkthrough of the whole setup at https://www.youtube.com/watch?v=ERDyAu0ZCe8
 
 
 ## Disclaimer
